@@ -26,3 +26,15 @@ Reference : https://github.com/likejazz/cnn-text-classification-tf
 * Keras-Applications (1.0.8) 
 
 * Keras-Preprocessing (1.1.0)
+
+# Training
+
+* ./train.py
+
+# Tensorboard
+
+* tensorboard --logdir=/var/mail/runs/'path'/summaries/dev
+
+# Evaluation
+
+* ./eval.py
