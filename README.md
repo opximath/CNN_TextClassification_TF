@@ -3,12 +3,12 @@
 Reference : https://github.com/likejazz/cnn-text-classification-tf
 
 # OS 
-Ubuntu 16.04
+Ubuntu 16.04 LTS
 
 # File Location 
 var/mail
 
-# Module Verion
+# Module Version
 tensorboard (1.13.1) 
 
 tensorflow (1.2.0) 
